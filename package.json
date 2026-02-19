@@ -1,0 +1,21 @@
+{
+  "name": "zaid-saifi",
+  "version": "1.0.0",
+  "description": "zaid filess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saifizaid63-oss/zaid-saifi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/saifizaid63-oss/zaid-saifi/issues"
+  },
+  "homepage": "https://github.com/saifizaid63-oss/zaid-saifi#readme"
+}
